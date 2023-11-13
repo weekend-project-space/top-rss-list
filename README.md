@@ -347,3 +347,7 @@
 | 历史研习社 | [https://plink.anyfeeder.com/weixin/mingqinghistory](https://plink.anyfeeder.com/weixin/mingqinghistory) | [查看](https://webfollow.cc/channel/plink.anyfeeder.com/weixin/mingqinghistory) | 
 | 简书: 热门 | [https://plink.anyfeeder.com/jianshu/trending/weekly](https://plink.anyfeeder.com/jianshu/trending/weekly) | [查看](https://webfollow.cc/channel/plink.anyfeeder.com/jianshu/trending/weekly) | 
 | 界面新闻: 财经 | [https://plink.anyfeeder.com/jiemian/finance](https://plink.anyfeeder.com/jiemian/finance) | [查看](https://webfollow.cc/channel/plink.anyfeeder.com/jiemian/finance) | 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=weekend-project-space/top-rss-list&type=Date)](https://star-history.com/#weekend-project-space/top-rss-list&Date)
