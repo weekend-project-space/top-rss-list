@@ -2,7 +2,7 @@
 
 记录 webfollow中 订阅人数最多的rss源 订阅数量从多到少
 
-[实时热榜](https://t.webfollow.cc)
+[实时热搜榜](https://s.webfollow.cc)
 
 中文区优质rss源
 
