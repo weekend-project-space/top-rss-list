@@ -4,6 +4,8 @@
 
 [实时热搜榜](https://s.webfollow.cc)
 
+[rss相关小技巧](https://github.com/weekend-project-space/top-rss-list/discussions/12)
+
 中文区优质rss源
 
 
