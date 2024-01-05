@@ -1,14 +1,14 @@
 # top-rss-list
 
-记录 webfollow中 订阅人数最多的rss源 订阅数量从多到少
+记录 webfollow中 订阅人数最多的RSS源 订阅数量从多到少
 
 [实时热搜榜](https://s.webfollow.cc)
 
 [RSS爱好者微信群](https://zhidayingxiao.cn/to/06g6x1)
 
-[rss相关小技巧](https://github.com/weekend-project-space/top-rss-list/discussions/12)
+[RSS相关小技巧](https://github.com/weekend-project-space/top-rss-list/discussions/12)
 
-中文区优质rss源
+中文区优质RSS源
 
 
 |  名称   | 源  |  查看    |
