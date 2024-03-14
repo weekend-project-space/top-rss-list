@@ -2,15 +2,9 @@
 
 记录 webfollow中 订阅人数最多的RSS源 订阅数量从多到少
 
-[实时热搜榜](https://s.webfollow.cc)
-
 [RSS爱好者微信群](https://zhidayingxiao.cn/to/06g6x1)
 
-[RSS内容预览](https://webfollow.cc/setup)
-
 [RSS相关小技巧](https://github.com/weekend-project-space/top-rss-list/discussions/12)
-
-[免费的人工智能](https://1e1.fun/)
 
 中文区优质RSS源
 
