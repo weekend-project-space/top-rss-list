@@ -6,7 +6,7 @@
 
 [RSS相关小技巧](https://github.com/weekend-project-space/top-rss-list/discussions/12)
 
-[今日热搜](https://s.webfollow.cc/)
+[用RSS订阅您的头条](https://s.webfollow.cc/)
 
 中文区优质RSS源
 
