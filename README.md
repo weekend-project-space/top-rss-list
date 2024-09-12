@@ -4,7 +4,7 @@
 
 [RSS爱好者微信群](https://zhidayingxiao.cn/to/06g6x1)
 
-[RSS相关小技巧](https://github.com/weekend-project-space/top-rss-list/discussions/12)
+[web2rss](https://web2rss.cc) 将网页列表转成rss
 
 [用RSS订阅您的头条](https://s.webfollow.cc/)
 
