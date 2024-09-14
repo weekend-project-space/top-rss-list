@@ -50,7 +50,7 @@ func download(url string) ([]byte, error) {
 
 func main() {
 	// https://github.com/weekend-project-space/top-rss-list/blob/main/README.md
-	data, err := os.ReadFile("rss.md")
+	data, err := os.ReadFile("README.md")
 	if err != nil {
 		fmt.Println("Error reading file:", err)
 		return
