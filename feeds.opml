@@ -335,5 +335,12 @@
     <outline text="刘润" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/runliu-pub"></outline>
     <outline text="经济观察报" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/eeo-com-cn"></outline>
     <outline text="丁香医生" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/DingXiangYiSheng"></outline>
-    </body>
+    <outline text="品玩" type="rss" xmlUrl="https://plink.anyfeeder.com/pingwest"></outline>
+    <outline text="小众软件" type="rss" xmlUrl="https://plink.anyfeeder.com/appinn"></outline>
+    <outline text="煎蛋" type="rss" xmlUrl="https://plink.anyfeeder.com/jiandan"></outline>
+    <outline text="丁香妈妈" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/DingXiangMaMi"></outline>
+    <outline text="历史研习社" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/mingqinghistory"></outline>
+    <outline text="简书: 热门" type="rss" xmlUrl="https://plink.anyfeeder.com/jianshu/trending/weekly"></outline>
+    <outline text="界面新闻: 财经" type="rss" xmlUrl="https://plink.anyfeeder.com/jiemian/finance"></outline>
+  </body>
 </opml>
