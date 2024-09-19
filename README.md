@@ -4,7 +4,7 @@
 
 [RSS爱好者微信群](https://zhidayingxiao.cn/to/06g6x1)
 
-[web2rss](https://web2rss.cc) 将网页列表转成rss
+[web2rss 输入网址列表得到rss地址](https://web2rss.cc)
 
 [用RSS订阅您的头条](https://s.webfollow.cc/)
 
