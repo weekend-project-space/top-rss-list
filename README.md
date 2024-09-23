@@ -6,7 +6,7 @@
 
 [查找小众rss](https://web2rss.cc)
 
-[用RSS订阅您的头条](https://s.webfollow.cc/)
+[rss公众号，发现新大陆](https://zhidayingxiao.cn/to/06g6wV)
 
 中文区优质RSS源
 
