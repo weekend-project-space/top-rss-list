@@ -10,6 +10,8 @@
 
 ## 服务
 
+[RSS全端订阅服务](https://i.webfollow.cc)
+
 [查找小众rss](https://web2rss.cc)
 
 [中文区优质RSS源在线查看 支持opml导出](https://toprss.webfollow.cc/)
