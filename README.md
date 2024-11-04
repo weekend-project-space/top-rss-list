@@ -25,7 +25,7 @@
 | 阮一峰的网络日志 | [https://www.ruanyifeng.com/blog/atom.xml](https://www.ruanyifeng.com/blog/atom.xml) | [查看](https://webfollow.cc/channel/www.ruanyifeng.com/blog/atom.xml) | 
 | 阮一峰的网络日志 | [http://feeds.feedburner.com/ruanyifeng](http://feeds.feedburner.com/ruanyifeng) | [查看](https://webfollow.cc/channel/feeds.feedburner.com/ruanyifeng) | 
 | 少数派 | [https://sspai.com/feed](https://sspai.com/feed) | [查看](https://webfollow.cc/channel/sspai.com/feed) | 
-| 美团技术团队 | [https://rsshub.app/meituan/tech/home](https://rsshub.app/meituan/tech/home) | [查看](https://webfollow.cc/channel/rsshub.app/meituan/tech/home) | 
+| 美团技术团队 | [https://tech.meituan.com/feed/](https://tech.meituan.com/feed/) | [查看](https://webfollow.cc/channel/tech.meituan.com/feed/) | 
 | V2EX | [https://v2ex.com/index.xml](https://v2ex.com/index.xml) | [查看](https://webfollow.cc/channel/v2ex.com/index.xml) | 
 | 酷 壳 – CoolShell | [http://coolshell.cn/feed](http://coolshell.cn/feed) | [查看](https://webfollow.cc/channel/coolshell.cn/feed) | 
 | 爱范儿 | [https://www.ifanr.com/feed](https://www.ifanr.com/feed) | [查看](https://webfollow.cc/channel/www.ifanr.com/feed) | 
