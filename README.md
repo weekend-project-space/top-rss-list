@@ -4,9 +4,9 @@
 
 ## 社区
 
-[RSS爱好者微信群](https://zhidayingxiao.cn/to/06g6x1)
+[RSS爱好者微信群](https://jump.01234.fun/to/06g6x1)
 
-[RSS公众号，发现新大陆](https://zhidayingxiao.cn/to/06g6wV)
+[RSS公众号，发现新大陆](https://jump.01234.fun/to/06g6wV)
 
 ## 服务
 
