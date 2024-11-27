@@ -10,7 +10,7 @@
 
 ## 服务
 
-[RSS全端订阅服务](https://i.webfollow.cc)
+[RSS全端订阅服务](https://webfollow.cc)
 
 [查找小众rss](https://web2rss.cc)
 
