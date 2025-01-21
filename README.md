@@ -16,6 +16,10 @@
 
 [中文区优质RSS源在线查看 支持opml导出](https://toprss.webfollow.cc/)
 
+## 网络赚零花，报团
+
+[赚零花群](https://zhidayingxiao.cn/to/06g6vm)
+
 ## 中文区优质RSS源
 
 
