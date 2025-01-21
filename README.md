@@ -18,7 +18,7 @@
 
 ## 网络赚零花，报团
 
-[赚零花群](https://zhidayingxiao.cn/to/06g6vm)
+[赚零花群,非卖课，非收费，专业赚零花5年](https://zhidayingxiao.cn/to/06g6vm)
 
 ## 中文区优质RSS源
 
