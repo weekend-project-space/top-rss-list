@@ -18,9 +18,6 @@
 
 [rsshub使用快速上手-小白向](https://webfollow.cc/rss)
 
-## 网络赚零花，报团
-
-[赚零花群,非卖课，非收费，专业赚零花5年](https://zhidayingxiao.cn/to/06g6vm)
 
 ## 中文区优质RSS源
 
