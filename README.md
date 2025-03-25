@@ -4,7 +4,7 @@
 
 ## 社区
 
-[RSS爱好者微信群](https://jump.01234.fun/to/06g6x1)
+[加入rss交流群,与大佬一起交流,更可获得免费教程和优质订阅源,强烈推荐！](https://jump.01234.fun/to/06g6x1)
 
 [RSS公众号，发现新大陆](https://jump.01234.fun/to/06g6wV)
 
