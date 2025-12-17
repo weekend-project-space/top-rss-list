@@ -10,7 +10,7 @@
 
 ## 服务
 
-[RSS全端订阅服务](https://ifeed.cc/)
+[RSS全端订阅服务](https://www.ifeed.cc/)
 
 [网页列表转rss](https://web2rss.cc)
 
