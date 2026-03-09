@@ -2,13 +2,9 @@
 
 记录 ifeed中 订阅人数最多的RSS源 订阅数量从多到少
 
-## 社区
-
-[加入rss交流群,与大佬一起交流,更可获得免费教程和优质订阅源,强烈推荐！](https://zhidayingxiao.cn/to/06g6x1)
+[加入RSS交流群,与大佬一起交流](https://zhidayingxiao.cn/to/06g6x1)
 
 [RSS公众号，发现新大陆](https://zhidayingxiao.cn/to/06g6wV)
-
-## 服务
 
 [rsshub使用快速上手-小白向](https://ifeed.cc/rss)
 
