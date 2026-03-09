@@ -10,12 +10,6 @@
 
 ## 服务
 
-[RSS全端订阅服务](https://www.ifeed.cc/)
-
-[网页列表转rss](https://web2rss.cc)
-
-[中文区优质RSS源在线查看 支持opml导出](https://toprss.ifeed.cc/)
-
 [rsshub使用快速上手-小白向](https://ifeed.cc/rss)
 
 
