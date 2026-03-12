@@ -2,7 +2,7 @@
 
 记录 ifeed中 订阅人数最多的RSS源 订阅数量从多到少
 
-[加入RSS交流群,与大佬一起交流](https://zhidayingxiao.cn/to/06g6x1)
+[加入RSS交流群,与大佬一起交流](https://raw.githubusercontent.com/weekend-project-space/weekend-project-space/refs/heads/main/static/images/wechat.jpg)
 
 [RSS公众号，发现新大陆](https://zhidayingxiao.cn/to/06g6wV)
 
