@@ -407,6 +407,6 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=weekend-project-space/top-rss-list&type=Date)](https://star-history.com/#weekend-project-space/top-rss-list&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=weekend-project-space/top-rss-list&type=Date)](https://star-history.dera.page/#weekend-project-space/top-rss-list&Date)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/top-rss-list/count.svg) visitor
